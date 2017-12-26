@@ -1,0 +1,4 @@
+/home/xiaohai/Github/CMakeTutorial/test3/INSTALL/share/doc/COPYLEFT
+/home/xiaohai/Github/CMakeTutorial/test3/INSTALL/share/doc/README
+/home/xiaohai/Github/CMakeTutorial/test3/INSTALL/bin/runhello.sh
+/home/xiaohai/Github/CMakeTutorial/test3/INSTALL/share/doc/hello.txt

@@ -1,0 +1,1 @@
+/home/xiaohai/Github/CMakeTutorial/test2/build/bin/CMakeFiles/hello.dir
